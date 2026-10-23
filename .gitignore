@@ -1,0 +1,17 @@
+# Environment variables & secrets
+.env
+data/
+*.db
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+
+# Virtual environment
+venv/
+.venv/
+env/
